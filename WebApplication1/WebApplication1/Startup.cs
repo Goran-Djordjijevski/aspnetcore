@@ -28,8 +28,7 @@ namespace WebApplication1
                 app.UseDeveloperExceptionPage();
             }
 
-            app.UseDefaultFiles();
-            app.UseStaticFiles();
+            app.UseFileServer(enableDirectoryBrowsing: true);
 
             app.Run(async (context) =>
             {
