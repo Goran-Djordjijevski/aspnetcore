@@ -1,0 +1,9 @@
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.deps.json
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.json
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.runtimeconfig.dev.json
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.dll
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\WebApplication1\bin\Debug\netcoreapp1.1\WebApplication1.pdb
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.AssemblyInfo.cs
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.dll
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\WebApplication1\obj\Debug\netcoreapp1.1\WebApplication1.pdb
