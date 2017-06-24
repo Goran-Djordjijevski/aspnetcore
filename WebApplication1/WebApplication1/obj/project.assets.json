@@ -3095,6 +3095,13 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XPath.XDocument.dll": {}
         }
+      },
+      "SimpleClassForTestingNuGet/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v1.1",
+        "dependencies": {
+          "Microsoft.NETCore.App": "1.1.2"
+        }
       }
     }
   },
@@ -8744,6 +8751,11 @@
         "system.xml.xpath.xdocument.4.0.1.nupkg.sha512",
         "system.xml.xpath.xdocument.nuspec"
       ]
+    },
+    "SimpleClassForTestingNuGet/1.0.0": {
+      "type": "project",
+      "path": "../SimpleClassForTestingNuGet/SimpleClassForTestingNuGet.csproj",
+      "msbuildProject": "../SimpleClassForTestingNuGet/SimpleClassForTestingNuGet.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -8751,7 +8763,8 @@
       "Microsoft.ApplicationInsights.AspNetCore >= 2.0.0",
       "Microsoft.AspNetCore >= 1.1.2",
       "Microsoft.AspNetCore.StaticFiles >= 1.1.2",
-      "Microsoft.NETCore.App >= 1.1.2"
+      "Microsoft.NETCore.App >= 1.1.2",
+      "SimpleClassForTestingNuGet >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -8770,7 +8783,11 @@
       ],
       "frameworks": {
         "netcoreapp1.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\goran\\Documents\\GitHub\\aspnetcore\\WebApplication1\\SimpleClassForTestingNuGet\\SimpleClassForTestingNuGet.csproj": {
+              "projectPath": "C:\\Users\\goran\\Documents\\GitHub\\aspnetcore\\WebApplication1\\SimpleClassForTestingNuGet\\SimpleClassForTestingNuGet.csproj"
+            }
+          }
         }
       }
     },
