@@ -1,0 +1,7 @@
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\SimpleClassForTestingNuGet\bin\Debug\netcoreapp1.1\SimpleClassForTestingNuGet.deps.json
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\SimpleClassForTestingNuGet\bin\Debug\netcoreapp1.1\SimpleClassForTestingNuGet.dll
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\SimpleClassForTestingNuGet\bin\Debug\netcoreapp1.1\SimpleClassForTestingNuGet.pdb
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\SimpleClassForTestingNuGet\obj\Debug\netcoreapp1.1\SimpleClassForTestingNuGet.csprojResolveAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\SimpleClassForTestingNuGet\obj\Debug\netcoreapp1.1\SimpleClassForTestingNuGet.AssemblyInfo.cs
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\SimpleClassForTestingNuGet\obj\Debug\netcoreapp1.1\SimpleClassForTestingNuGet.dll
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\SimpleClassForTestingNuGet\obj\Debug\netcoreapp1.1\SimpleClassForTestingNuGet.pdb
