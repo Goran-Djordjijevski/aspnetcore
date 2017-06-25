@@ -1,0 +1,10 @@
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\CreateForm\bin\Debug\netcoreapp1.1\CreateForm.deps.json
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\CreateForm\bin\Debug\netcoreapp1.1\CreateForm.runtimeconfig.json
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\CreateForm\bin\Debug\netcoreapp1.1\CreateForm.runtimeconfig.dev.json
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\CreateForm\bin\Debug\netcoreapp1.1\CreateForm.dll
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\CreateForm\bin\Debug\netcoreapp1.1\CreateForm.pdb
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\CreateForm\obj\Debug\netcoreapp1.1\CreateForm.csprojResolveAssemblyReference.cache
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\CreateForm\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\CreateForm\obj\Debug\netcoreapp1.1\CreateForm.AssemblyInfo.cs
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\CreateForm\obj\Debug\netcoreapp1.1\CreateForm.dll
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\CreateForm\obj\Debug\netcoreapp1.1\CreateForm.pdb

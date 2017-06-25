@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleClassForTestingNuGet"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleMVCApp", "SimpleMVCApp\SimpleMVCApp.csproj", "{FDF742E9-77C8-4927-8A90-5517B763E710}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreateForm", "CreateForm\CreateForm.csproj", "{A72D2471-180E-4492-9EE2-32838B4AA94A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{FDF742E9-77C8-4927-8A90-5517B763E710}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FDF742E9-77C8-4927-8A90-5517B763E710}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FDF742E9-77C8-4927-8A90-5517B763E710}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A72D2471-180E-4492-9EE2-32838B4AA94A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A72D2471-180E-4492-9EE2-32838B4AA94A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A72D2471-180E-4492-9EE2-32838B4AA94A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A72D2471-180E-4492-9EE2-32838B4AA94A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
