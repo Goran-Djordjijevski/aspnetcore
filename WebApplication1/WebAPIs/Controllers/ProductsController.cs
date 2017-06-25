@@ -11,5 +11,6 @@ namespace WebAPIs.Controllers
     [Route("api/Products")]
     public class ProductsController : Controller
     {
+        public string Get() => "Hello API";
     }
 }
