@@ -3,7 +3,6 @@ C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\SimpleMVCApp\bin\Debu
 C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\SimpleMVCApp\bin\Debug\netcoreapp1.1\SimpleMVCApp.runtimeconfig.dev.json
 C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\SimpleMVCApp\bin\Debug\netcoreapp1.1\SimpleMVCApp.dll
 C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\SimpleMVCApp\bin\Debug\netcoreapp1.1\SimpleMVCApp.pdb
-C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\SimpleMVCApp\obj\Debug\netcoreapp1.1\SimpleMVCApp.csprojResolveAssemblyReference.cache
 C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\SimpleMVCApp\obj\Debug\netcoreapp1.1\UserSecretsAssemblyInfo.cs
 C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\SimpleMVCApp\obj\Debug\netcoreapp1.1\SimpleMVCApp.AssemblyInfo.cs
 C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\SimpleMVCApp\obj\Debug\netcoreapp1.1\SimpleMVCApp.dll
