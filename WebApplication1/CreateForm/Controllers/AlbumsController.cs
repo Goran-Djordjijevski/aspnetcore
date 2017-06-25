@@ -53,7 +53,7 @@ namespace CreateForm.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ID,Artist,Name,Genre,ReleaseDate,Price")] Album album)
+        public async Task<IActionResult> Create([Bind("ID,Artist,Name,Genre,ReleaseDate,Price,Rank")] Album album)
         {
             if (ModelState.IsValid)
             {
@@ -85,7 +85,7 @@ namespace CreateForm.Controllers
         // more details see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Edit(int id, [Bind("ID,Artist,Name,Genre,ReleaseDate,Price")] Album album)
+        public async Task<IActionResult> Edit(int id, [Bind("ID,Artist,Name,Genre,ReleaseDate,Price,Rank")] Album album)
         {
             if (id != album.ID)
             {
