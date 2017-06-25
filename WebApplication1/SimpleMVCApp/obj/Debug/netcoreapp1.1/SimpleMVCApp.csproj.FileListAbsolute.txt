@@ -7,3 +7,4 @@ C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\SimpleMVCApp\obj\Debu
 C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\SimpleMVCApp\obj\Debug\netcoreapp1.1\SimpleMVCApp.AssemblyInfo.cs
 C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\SimpleMVCApp\obj\Debug\netcoreapp1.1\SimpleMVCApp.dll
 C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\SimpleMVCApp\obj\Debug\netcoreapp1.1\SimpleMVCApp.pdb
+C:\Users\goran\Documents\GitHub\aspnetcore\WebApplication1\SimpleMVCApp\obj\Debug\netcoreapp1.1\SimpleMVCApp.csprojResolveAssemblyReference.cache

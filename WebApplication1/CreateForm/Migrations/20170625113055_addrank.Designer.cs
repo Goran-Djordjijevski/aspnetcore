@@ -8,9 +8,10 @@ using CreateForm.Models;
 namespace CreateForm.Migrations
 {
     [DbContext(typeof(AlbumContext))]
-    partial class AlbumContextModelSnapshot : ModelSnapshot
+    [Migration("20170625113055_addrank")]
+    partial class addrank
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
             modelBuilder
                 .HasAnnotation("ProductVersion", "1.1.2")

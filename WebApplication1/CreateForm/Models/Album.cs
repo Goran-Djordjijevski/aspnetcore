@@ -24,5 +24,7 @@ namespace CreateForm.Models
         [Required]
         [Range(minimum: 0, maximum: 100.00)]
         public decimal Price { get; set; }
+
+        public int Rank { get; set; }
     }
 }
